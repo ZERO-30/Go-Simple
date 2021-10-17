@@ -1,4 +1,4 @@
-""" This will print 5 messages """
+// This will print 5 messages
 
 package main
 
