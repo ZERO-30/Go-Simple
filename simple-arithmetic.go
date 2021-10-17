@@ -1,4 +1,4 @@
-""" Example simple arithmetic use go """
+// Example simple arithmetic use go
 
 package main
 
