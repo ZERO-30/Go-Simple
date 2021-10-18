@@ -1,3 +1,3 @@
-# Hello-World
+# Go-Simple
 
-Just a Simple Hello World Print
+Simple codes use golang
